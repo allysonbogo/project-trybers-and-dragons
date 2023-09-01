@@ -5,7 +5,7 @@
 
 O projeto Trybers and Dragons é uma aplicação em TypeScript desenvolvida para a criação de um jogo Role-Playing Game (RPG) em que é possível a criação de jogadores com raças e arquétipos específicos, monstros, dragões e outros personagens inspirados no universo da fantasia medieval.
 
-O projeto foi desenvolvido utilizando os princípios SOLID da Programação Orientada a Objetos (POO) e possui um sistema de lutas Player vs Players (PVP) e Players vs Environment (PVE).
+O projeto foi desenvolvido utilizando os princípios SOLID da Programação Orientada a Objetos (POO) e possui um sistema de lutas Player vs Player (PVP) e Player vs Environment (PVE).
 
 
 ## 🛠️ Ferramentas Utilizadas
